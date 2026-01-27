@@ -4,6 +4,6 @@ arr.forEach(function printval(val){
 });
 
 let arr1 = ["Pune","Delhi","Mumbai"];
-arr1.forEach((val)=>{
-    console.log(val.toUpperCase());
+arr1.forEach((val1)=>{
+    console.log(val1.toUpperCase());
 });
